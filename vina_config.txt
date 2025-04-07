@@ -1,0 +1,10 @@
+receptor = 4ey7_cleaned.pdbqt
+ligand = ligand_prepared.pdbqt
+center_x = -14.23
+center_y = -43.79
+center_z = 27.57
+size_x = 20
+size_y = 20
+size_z = 20
+out = docked_output.pdbqt
+log = docking_log.txt
